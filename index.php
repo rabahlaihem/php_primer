@@ -20,4 +20,5 @@ $age =23;
      echo "<br>";
      echo '<h1>May age is:'. $age.'</h1>';
      ?>
+     <a href="https://www.heroku.com" class="btn btn-success" target="_blank">Heroku.com</a>
 <?php require 'includes/footer.php'?>
